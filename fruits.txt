@@ -1,5 +1,6 @@
 apple
-watermelon
-cherry
 kiwi
+cherry
+watermelon
 muskmelon
+
